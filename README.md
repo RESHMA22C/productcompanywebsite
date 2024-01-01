@@ -673,14 +673,11 @@ product.html
 </html>
 
 ## OUTPUT:
-/home/sec/Pictures/Screenshots/Screenshot from 2024-01-01 23-03-43.png
-/home/sec/Pictures/Screenshots/Screenshot from 2024-01-01 23-18-46.png
-/home/sec/Pictures/Screenshots/Screenshot from 2024-01-01 23-37-44.png
-/home/sec/Pictures/Screenshots/Screenshot from 2024-01-01 23-42-42.png
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-01-01%2023-03-43.png![image](https://github.com/RESHMA22C/productcompanywebsite/assets/147474426/6c05b472-8e31-4ab2-9462-3d342b0deaf4)
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-01-01%2023-18-46.png![image](https://github.com/RESHMA22C/productcompanywebsite/assets/147474426/7e6fe522-722d-4ce9-8fc5-bcc47282d4bf)
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-01-01%2023-37-44.png![image](https://github.com/RESHMA22C/productcompanywebsite/assets/147474426/f48cd0a7-debe-484b-bfdd-48a2e0df55e2)
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-01-01%2023-42-42.png![image](https://github.com/RESHMA22C/productcompanywebsite/assets/147474426/e1af346c-a950-4f13-9a4f-2d371afc5ebc)
 
-### Home Page:
-
-![output](./images/homepage.jpg)
 
 ## Result:
 
