@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 home1.html
 
 <!DOCTYPE html>
@@ -671,6 +672,7 @@ product.html
     </div>
 </body>
 </html>
+```
 
 ## OUTPUT:
 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-01-01%2023-03-43.png![image](https://github.com/RESHMA22C/productcompanywebsite/assets/147474426/6c05b472-8e31-4ab2-9462-3d342b0deaf4)
